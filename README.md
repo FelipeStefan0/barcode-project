@@ -3,10 +3,7 @@
 Project developed to a college subject using C. In that is generated a PBM (Portable Bitmap) barcode image and you can extract from image the barcode's numbers.
 
 ## How to use
-<<<<<<< HEAD
 
-- git clone 
-=======
 1. Clone repository
 - `git clone https://github.com/FelipeStefan0/barcode-projetc.git`
 
@@ -17,4 +14,3 @@ Project developed to a college subject using C. In that is generated a PBM (Port
 - `gcc barcode-extractor.c functions.c -o extractor`
 
 4. A exec file will be set in your project file, just open and use it.
->>>>>>> e069287eb4f1067f2db274fddee02a73e7c859b6
